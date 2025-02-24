@@ -19,6 +19,16 @@
       <h1 aling="left"> LeetCode </h1>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://www.udemy.com/user/martin-zwayrcz/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/160745a7-545b-42b4-9fd6-45774cf0758a" width="70" height="40" lt="leetcode logo">
+      </a>
+    </td>
+    <td>
+       <h1 aling="left"> Udemy </h1>
+    </td>
+  </tr>
 </table>
 
 ###
