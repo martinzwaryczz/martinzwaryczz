@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td>
-      <a>
+      <a href="https://leetcode.com/u/martinzwarycz/" target="_blank">
        <img src="https://github.com/user-attachments/assets/6330a878-1237-4dd0-b968-d6f929011edc)" width="52" height="40" lt="leetcode logo">
       </a>
     </td>
