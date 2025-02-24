@@ -9,6 +9,16 @@
       <h1 align="left">Martín Zwarycz</h1>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a>
+       <img src="https://github.com/user-attachments/assets/6330a878-1237-4dd0-b968-d6f929011edc)" width="52" height="40" lt="leetcode logo">
+      </a>
+    </td>
+    <td>
+      <h1 aling="left"> LeetCode </h1>
+    </td>
+  </tr>
 </table>
 
 ###
