@@ -2,7 +2,7 @@
   <tr>
     <td>
       <a href="https://www.linkedin.com/in/mart%C3%ADn-zwarycz-95aab9213/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo" />
       </a>
     </td>
     <td>
@@ -12,7 +12,7 @@
   <tr>
     <td>
       <a href="https://leetcode.com/u/martinzwarycz/" target="_blank">
-       <img src="https://github.com/user-attachments/assets/6330a878-1237-4dd0-b968-d6f929011edc)" width="52" height="40" lt="leetcode logo">
+       <img src="https://github.com/user-attachments/assets/eaa9511d-c2bd-4c91-9d69-1a5aaa2ec842" width="70" height="40" lt="leetcode logo">
       </a>
     </td>
     <td>
