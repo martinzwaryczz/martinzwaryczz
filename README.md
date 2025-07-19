@@ -81,4 +81,4 @@
 ###
 
 <h1 align="left">Intereses:</h1>
-<p>Tengo interes en seguir mejorando mi lógica de programación, aplicar conocimientos adquiridos a casos reales y aprender Deep Learning utilizando TensorFlow y Keras como librerias para realizar mis propias redes neuronales con laboratorios de GoogleColab. </p>
+<p>Tengo interes en seguir mejorando mi lógica de programación, aplicar conocimientos adquiridos a casos reales y aprender Deep Learning utilizando pyTorch como libreria para realizar mis propias redes neuronales.</p>
