@@ -82,3 +82,6 @@
 
 <h1 align="left">Intereses:</h1>
 <p>Tengo interes en seguir mejorando mi lógica de programación, aplicar conocimientos adquiridos a casos reales y aprender Deep Learning utilizando pyTorch como libreria para realizar mis propias redes neuronales y modelos.</p>
+
+<h1 align="left">Cursos y certificaciones:</h1>
+<p>PyTorch for Deep Learning: https://www.udemy.com/certificate/UC-38896b11-3c83-4070-ab53-9fde416f3dad/</p>
