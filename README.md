@@ -34,12 +34,12 @@
 ###
 <h1 align="left">Sobre mi:</h1>
 
-<p align="left">Hola! Me llamo Martín Zwarycz, soy un técnico en informática que se encuentra cursando el tercer año de la carrera "Licenciatura en informática" y aprendiendo Machine Learning, Deep Learning, Data Science y Python de manera autodidacta.<br><br>Soy un gran apasionado por la informática en general, por lo que volcaré aquí gran parte de mis trabajos.</p>
+<p align="left">Me llamo Martín Zwarycz, soy un técnico en informática que se encuentra cursando el tercer año de la carrera "Licenciatura en informática" y aprendiendo Machine Learning, Deep Learning, Data Science y Python de manera autodidacta.<br><br>Soy un gran apasionado por la informática en general, por lo que volcaré aquí gran parte de mis trabajos.</p>
 
 ###
 
 
-<h1 align="left">Conocimientos y aplitudes:</h1>
+<h1 align="left">Conocimientos y aptitudes:</h1>
 <div align="left">
 <table>
   <tr>
@@ -85,3 +85,8 @@
 
 <h1 align="left">Cursos y certificaciones:</h1>
 <p>PyTorch for Deep Learning: https://www.udemy.com/certificate/UC-38896b11-3c83-4070-ab53-9fde416f3dad/</p>
+<p>YOLOv8 & YOLO11: Custom Object Detection & Web Apps 2025: https://www.udemy.com/certificate/UC-5415166e-f2db-4cad-a9c6-c9ece71f1a34/</p>
+<p>GIT+GitHub: Todo un sistema de control de versiones de cero: https://www.udemy.com/certificate/UC-b9afe0d3-eeec-4e76-b3ae-2652a8fe4ad5/</p>
+<p>Deep Learning for Object Detection with Python and PyTorch: https://www.udemy.com/certificate/UC-ed6dcee3-f564-4ed4-a25e-a6baee67c9b0/</p>
+
+Planeo seguir formandome en ML, librerias de Data Science, Hugging Face y bases de datos vectoriales. 
