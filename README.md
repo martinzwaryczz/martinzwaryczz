@@ -54,6 +54,7 @@
         - Pandas<br>
         - Numpy<br>
         - Matplotlib<br>
+        - pyTorch<br>
         - Álgebra y geometría analítica<br>
         - Análisis matemático<br>
         - Probabilidad y estadística
