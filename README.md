@@ -82,12 +82,18 @@
 ###
 
 <h1 align="left">Intereses:</h1>
-<p>Tengo interes en seguir mejorando mi lógica de programación, aplicar conocimientos adquiridos a casos reales y aprender Deep Learning utilizando pyTorch como libreria para realizar mis propias redes neuronales y modelos.</p>
+<p>A día de hoy (29/04/2026) tengo interes en seguir aprendiendo nuevos temas tales como procesamiento de lenguaje natural, aplicar todos estos conceptos a problemas reales, realizar agentes de IA y seguir con mi formación universitaria.</p>
 
 <h1 align="left">Cursos y certificaciones:</h1>
 <p>PyTorch for Deep Learning: https://www.udemy.com/certificate/UC-38896b11-3c83-4070-ab53-9fde416f3dad/</p>
 <p>YOLOv8 & YOLO11: Custom Object Detection & Web Apps 2025: https://www.udemy.com/certificate/UC-5415166e-f2db-4cad-a9c6-c9ece71f1a34/</p>
 <p>GIT+GitHub: Todo un sistema de control de versiones de cero: https://www.udemy.com/certificate/UC-b9afe0d3-eeec-4e76-b3ae-2652a8fe4ad5/</p>
 <p>Deep Learning for Object Detection with Python and PyTorch: https://www.udemy.com/certificate/UC-ed6dcee3-f564-4ed4-a25e-a6baee67c9b0/</p>
+<p>Vector Databases Fundamentals: https://www.udemy.com/certificate/UC-18b86eec-774f-486a-ad95-9465ba982b91/ </p> 
+<p>Curso Completo: LangChain, LangGraph y Agentes IA con Python: https://www.udemy.com/certificate/UC-b9201f03-7f63-47b4-bb3f-65f089f5ff0b/</p>
+<p>Docker, de principiante a experto: https://www.udemy.com/certificate/UC-65e05442-709e-422d-8f64-36e242c11d79/</p>
+<p>Curso de Microsoft Azure AI Fundamentals (AI-900) - 2026:https: //www.udemy.com/certificate/UC-8a44bc14-7e0c-4624-8246-216327443304/</p>
+<p>Aprende FastAPI desde cero: https://www.udemy.com/certificate/UC-4f13bb8a-e3d8-4488-8448-4089fa92b938/</p>
 
-Planeo seguir formandome en ML, librerias de Data Science, Hugging Face y bases de datos vectoriales. 
+ 
+
