@@ -92,7 +92,7 @@
 <p>Vector Databases Fundamentals: https://www.udemy.com/certificate/UC-18b86eec-774f-486a-ad95-9465ba982b91/ </p> 
 <p>Curso Completo: LangChain, LangGraph y Agentes IA con Python: https://www.udemy.com/certificate/UC-b9201f03-7f63-47b4-bb3f-65f089f5ff0b/</p>
 <p>Docker, de principiante a experto: https://www.udemy.com/certificate/UC-65e05442-709e-422d-8f64-36e242c11d79/</p>
-<p>Curso de Microsoft Azure AI Fundamentals (AI-900) - 2026:https: //www.udemy.com/certificate/UC-8a44bc14-7e0c-4624-8246-216327443304/</p>
+<p>Curso de Microsoft Azure AI Fundamentals (AI-900) - 2026: https://www.udemy.com/certificate/UC-8a44bc14-7e0c-4624-8246-216327443304/</p>
 <p>Aprende FastAPI desde cero: https://www.udemy.com/certificate/UC-4f13bb8a-e3d8-4488-8448-4089fa92b938/</p>
 
  
