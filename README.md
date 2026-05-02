@@ -51,12 +51,14 @@
         - Python<br>
         - POO<br>
         - Sklearn<br>
+        - FastAPI<br>
         - Pandas<br>
         - Numpy<br>
         - Matplotlib<br>
         - pyTorch<br>
+        - Tensor Flow <br>
         - Álgebra y geometría analítica<br>
-        - Análisis matemático<br>
+        - Análisis matemático I y II<br>
         - Probabilidad y estadística
       </p>
     </td>
