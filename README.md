@@ -96,6 +96,8 @@
 <p>Docker, de principiante a experto: https://www.udemy.com/certificate/UC-65e05442-709e-422d-8f64-36e242c11d79/</p>
 <p>Curso de Microsoft Azure AI Fundamentals (AI-900) - 2026: https://www.udemy.com/certificate/UC-8a44bc14-7e0c-4624-8246-216327443304/</p>
 <p>Aprende FastAPI desde cero: https://www.udemy.com/certificate/UC-4f13bb8a-e3d8-4488-8448-4089fa92b938/</p>
+<p>Deep Learning Mastery With Tensorflow2.x & Keras: https://www.udemy.com/certificate/UC-f077a403-8974-4de6-8d05-a3974108a0ba/</p>
+<p>Big Data y Spark: ingeniería de datos con Python y pyspark: https://www.udemy.com/certificate/UC-dabbc9ab-acad-4b9d-9fb7-d3c147d018fd/</p>
 
  
 
